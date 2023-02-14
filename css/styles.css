@@ -1,0 +1,17 @@
+body{
+  background-color: navyblue
+}
+h1{#77C3EC;
+font-size: 30pt
+
+}
+h2{color#77C3EC;
+font-size: 15pt;
+
+}
+hr{
+  border-color:grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%
+}
